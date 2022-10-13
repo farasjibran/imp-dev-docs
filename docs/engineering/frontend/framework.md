@@ -13,5 +13,4 @@ Framework ini mempermudah pekerjaan kita saat sedang mengerjakan sebuah website.
 - [Angular JS](https://angularjs.org/)
 - [Preact JS](https://preactjs.com/)
 - [Svelte JS](https://svelte.dev/)
-- [Backbone JS](https://backbonejs.org/)
 - [Remix JS](https://remix.run/)
